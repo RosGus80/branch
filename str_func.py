@@ -1,6 +1,7 @@
 def function(str):
     """My docstring"""
-    return str.uppper()
+    output = str.upper()
+    return output
 
 def function2(str):
     """Docstring"""
