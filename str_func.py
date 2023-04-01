@@ -9,3 +9,4 @@ def function2(str):
     for word in list:
         output.append(word.title())
     return " ".join(output)
+
